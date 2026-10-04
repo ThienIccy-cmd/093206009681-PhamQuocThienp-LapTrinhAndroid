@@ -1,0 +1,3 @@
+## Theo Bạn, Trong tương lai gần (10 năm) lập trình di động có phát triển  không vì sao?
+
+Theo em thì trong khoảng 10 năm tới thì lập trình di động vẫn sẽ tiếp tục phát triển vì nhu cầu sử dụng điện thoại cho mục đích hằng ngày như học tập, giải trí rất cao do đó nhu cầu phát triển các ứng dụng mới hoặc cải tiến những ứng dụng hiện có cũng sẽ tăng theo. nên là em nghĩ rằng lập trình di động vẫn sẽ có nhiều cơ hội phát triển trong tương lai.
